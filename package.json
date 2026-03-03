@@ -12,6 +12,7 @@
     "@supabase/supabase-js": "^2.39.3",
     "openai": "^4.24.1",
     "cors": "^2.8.5",
-    "dotenv": "^16.3.1"
+    "dotenv": "^16.3.1",
+    "lru-cache": "^11.0.2"
   }
 }
